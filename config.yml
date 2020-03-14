@@ -49,8 +49,8 @@ checker:
     hypixel: true
     mineplex: true
     # Minimum high level accounts
-    hypixel_level: 25
-    mineplex_level: 25
+    hypixel_level: 1
+    mineplex_level: 1
 
   proxy:
     # If proxies should be used, Will be proxyless if set to false (Use VPN if set to false or you will be ip banned)
